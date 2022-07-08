@@ -1,0 +1,29 @@
+body          /*tag selector*/
+{
+    background-color: #eaf6f6;
+}
+hr
+{ width: 5%; border-width: 5px;  border-style: none;  border-color: lightblue;  border-top-style: dotted;
+    background-color: #eaf6f6;
+}
+h1
+{
+    color: #66bfbf;
+}
+h2
+{
+    color: #66bfbf;
+}
+.subheadings        /*class selector*/
+{
+  color:blue;
+  background-color: lightblue;
+}
+#profile            /*id selector*/
+{
+  border-radius: 100%;
+}
+a:hover            /*pseudo class*/
+{
+  background-color: lightblue;
+}
